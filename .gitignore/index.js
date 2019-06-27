@@ -7,4 +7,4 @@ bot.on("ready" , function() {
     console.log("Le bot a bient ete co");
 });
 
-bot.login("NTkzODMyOTc4MjcwOTEyNTM1.XRT8Wg.-SAv2a1Hscd2x0-bJgRBBFOKNGw")
+bot.login("NTkzODMyOTc4MjcwOTEyNTM1.XRUMWQ.cxaF354oMeNXB71AObylINMFjbA")
